@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\UA\\Year 2\\Semester 1\\Data structure\\P1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB9C87D-B1D7-42C5-A43D-13BF0C76E270}|P1.vcxproj|C:\\Users\\Pc\\Desktop\\UA\\Year 2\\Semester 1\\Data structure\\P1\\P1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAB9C87D-B1D7-42C5-A43D-13BF0C76E270}|P1.vcxproj|solutionrelative:P1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB9C87D-B1D7-42C5-A43D-13BF0C76E270}|P1.vcxproj|C:\\Users\\Pc\\Desktop\\UA\\Year 2\\Semester 1\\Data structure\\P1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DAB9C87D-B1D7-42C5-A43D-13BF0C76E270}|P1.vcxproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P1.cpp",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UA\\Year 2\\Semester 1\\Data structure\\P1\\P1.cpp",
+              "RelativeDocumentMoniker": "P1.cpp",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UA\\Year 2\\Semester 1\\Data structure\\P1\\P1.cpp",
+              "RelativeToolTip": "P1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T17:54:24.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UA\\Year 2\\Semester 1\\Data structure\\P1\\input.txt",
+              "RelativeDocumentMoniker": "input.txt",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UA\\Year 2\\Semester 1\\Data structure\\P1\\input.txt",
+              "RelativeToolTip": "input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-28T17:54:19.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
